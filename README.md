@@ -26,3 +26,9 @@ Python, no frameworks needed for the demo. The same logic plugs into n8n / Make 
 - [ ] Log unanswered questions to keep improving the FAQ
 
 *Built while learning automation — feedback welcome!*
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
