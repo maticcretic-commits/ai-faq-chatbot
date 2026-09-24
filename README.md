@@ -1,5 +1,10 @@
 # AI FAQ Chatbot (Demo)
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-faq-chatbot?style=social)](https://github.com/maticcretic-commits/ai-faq-chatbot/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-faq-chatbot)](https://github.com/maticcretic-commits/ai-faq-chatbot/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-faq-chatbot)
+
+
 A demo chatbot that answers common customer questions automatically — and hands off to a human when it doesn't know the answer.
 
 ## Who is this for?
